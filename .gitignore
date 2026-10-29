@@ -1,0 +1,16 @@
+# Binaries / build artifacts
+*.jar
+*.class
+*.pyc
+__pycache__/
+libs/
+*.so
+*.dylib
+*.dll
+*.exe
+*.bin
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
